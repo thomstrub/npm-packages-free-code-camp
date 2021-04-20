@@ -1,13 +1,19 @@
 {
 	"author": "Thom Strub",
 	"description": "This is a project's project",
-	"keywords": ["freecodecamp", "tutorial", "node.js", "node", "package.json"],
+	"keywords": [
+		"freecodecamp",
+		"tutorial",
+		"node.js",
+		"node",
+		"package.json"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "4.14.0"
+		"moment": "^2.29.1"
 	},
 	"main": "server.js",
 	"scripts": {
